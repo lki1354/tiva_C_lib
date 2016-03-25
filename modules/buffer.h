@@ -1,8 +1,8 @@
-/*! \file buffer.
- *  \brief Implemenation of functions for controll all four motors
+/*! \file buffer.c
+ *  \brief 
  *  \author Lukas Kiechle
  *  \date 2016-01-11 creat date
- *  \copyright  All rights belong to
+ *  \copyright  
  *	\version 0.1
  */
 
